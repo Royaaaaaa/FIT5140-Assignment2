@@ -15,6 +15,7 @@
 		048C553A214E0CAC002CE94B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 048C5538214E0CAC002CE94B /* LaunchScreen.storyboard */; };
 		048C5545214E0CAC002CE94B /* FIT5140_Assignment2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048C5544214E0CAC002CE94B /* FIT5140_Assignment2Tests.swift */; };
 		048C5550214E0CAC002CE94B /* FIT5140_Assignment2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048C554F214E0CAC002CE94B /* FIT5140_Assignment2UITests.swift */; };
+		048C555E214E0D8D002CE94B /* TestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048C555D214E0D8D002CE94B /* TestFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		048C554B214E0CAC002CE94B /* FIT5140-Assignment2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FIT5140-Assignment2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		048C554F214E0CAC002CE94B /* FIT5140_Assignment2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FIT5140_Assignment2UITests.swift; sourceTree = "<group>"; };
 		048C5551214E0CAC002CE94B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		048C555D214E0D8D002CE94B /* TestFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		048C552B214E0CA7002CE94B /* FIT5140-Assignment2 */ = {
 			isa = PBXGroup;
 			children = (
+				048C555D214E0D8D002CE94B /* TestFile.swift */,
 				048C552C214E0CA7002CE94B /* AppDelegate.swift */,
 				048C552E214E0CA7002CE94B /* ViewController.swift */,
 				048C5530214E0CA7002CE94B /* Main.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				048C552F214E0CA7002CE94B /* ViewController.swift in Sources */,
+				048C555E214E0D8D002CE94B /* TestFile.swift in Sources */,
 				048C552D214E0CA7002CE94B /* AppDelegate.swift in Sources */,
 				048C5535214E0CA7002CE94B /* FIT5140_Assignment2.xcdatamodeld in Sources */,
 			);
